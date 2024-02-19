@@ -2,7 +2,7 @@
 
 Использовал пакет telegraph для laravel (ngrok -> proxy)
 
-1. Для запуска нужно устоновить ngrok 
+1. Для запуска нужно устоновить ngrok (с vpn)
 
     windows choco install ngrok
 
